@@ -20,7 +20,7 @@ NAV-style unit accounting.
 > before using it as your own journal. Market prices are entered manually; the
 > workbook does not connect to a broker or live-price service.
 
-![Portfolio Analysis dashboard showing holdings, account statistics, allocation charts, themes, sub-themes and unrealised profit or loss](./1.png)
+![Portfolio Analysis dashboard showing holdings, account statistics, allocation charts, themes, sub-themes and unrealised profit or loss](https://github.com/user-attachments/assets/4dfb409d-801a-49fc-b408-2c8dd2ef01fa)
 
 *Portfolio Analysis values every open position at its latest entered price and
 shows allocation, concentration, cash, exposure and unrealised performance.*
@@ -58,7 +58,7 @@ Calculated fields include:
 - trade duration, winning/losing classification and running account balance;
 - open-position unrealised P/L using the manually entered current price.
 
-![Trade Log with entries, trade management, exits, results and cash movements](./2.png)
+![Trade Log with entries, trade management, exits, results and cash movements](https://github.com/user-attachments/assets/b4e3a462-79b9-456c-af7a-8e5aa04c08ad)
 
 ## Portfolio analysis
 
@@ -86,7 +86,7 @@ Time provides monthly and annual realised P/L, monthly return percentages,
 compounded yearly returns, cash-flow summaries and performance by holding
 horizon.
 
-![Performance Over Time with monthly realised P/L, returns, annual summaries, holding horizons and charts](./3.png)
+![Performance Over Time with monthly realised P/L, returns, annual summaries, holding horizons and charts](https://github.com/user-attachments/assets/dbbac24b-d531-4366-ad74-eefb59956707)
 
 For benchmark analysis, paste monthly figures from a broker performance report:
 
@@ -120,7 +120,7 @@ Statistics include:
 - average holding time overall and for winners and losers; and
 - average discipline rating.
 
-![Strategy Summary comparing statistics across trading strategies](./4.png)
+![Strategy Summary comparing statistics across trading strategies](https://github.com/user-attachments/assets/de78689b-45fa-4d25-8fea-a89e2ff5094f)
 
 ## Fair multi-investor unit accounting
 
@@ -150,7 +150,7 @@ Add investor names on Journal Variables, then select the appropriate investor
 on every Deposit and Withdrawal row. Cash flows without an investor remain
 unassigned, so assigning each one is essential for complete ownership totals.
 
-![Investor Tracker showing unit price, units held, ownership, investor values, profit or loss and returns](./5.png)
+![Investor Tracker showing unit price, units held, ownership, investor values, profit or loss and returns](https://github.com/user-attachments/assets/c4d8b901-28ff-4665-b1d9-187476347e69)
 
 > [!IMPORTANT]
 > This is an internal record-keeping calculation, not audited fund accounting.
